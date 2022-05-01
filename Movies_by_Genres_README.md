@@ -34,6 +34,7 @@ Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 ![graph1](./images/graph1.png)
+### Visual 2
 ![graph2]((./images/graph2.png)
 
 ## Conclusions
